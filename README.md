@@ -15,7 +15,7 @@ Integrated Graphics：Nvidia Quadro 410,Nvidia GeForce 750ti
 
 Sound Card：Realtek ALC887 (layout-id:13)
 
-Network Card：Broadcom BCM94360CD，Realtek RTL8111 PCI Express Gigabit Ethernet
+Network Card：Broadcom BCM94360CD Wireless LAN 802.11ac，Realtek RTL8111 PCI Express Gigabit Ethernet
 
 ## 无法工作 / Non-working:
 
