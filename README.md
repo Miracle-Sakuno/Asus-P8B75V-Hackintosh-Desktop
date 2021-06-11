@@ -20,6 +20,7 @@ Network Card：Broadcom BCM94360CD，Realtek RTL8111 PCI Express Gigabit Etherne
 ## 无法工作 / Non-working:
 
 -S3 Sleep
+
 -Nvidia GeForce 750ti(Can install NVIDIA Webdriver on macOS High Sierra to Working)
 
 ## 未经测试 / Untested availability:
