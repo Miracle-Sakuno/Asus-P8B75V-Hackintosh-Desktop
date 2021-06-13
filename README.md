@@ -5,7 +5,7 @@ Asus P8B75-V Hackintosh-Desktop-macOS Big Sur-OpenCore
 
 ## 硬件配置 / Specifications:
 
-Processor：Intel Xeon E3-1230v2 Processor（Ivy Bridge,None IGPU）
+Processor：Intel Xeon E3-1230v2 Processor（Ivy Bridge，None IGPU）
 
 Memory：24GB DDR3 1600MHz
 
