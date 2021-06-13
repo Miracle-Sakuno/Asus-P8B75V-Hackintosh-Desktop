@@ -30,7 +30,7 @@ Network Card：Broadcom BCM94360CD Wireless LAN 802.11ac，Realtek RTL8111 PCI E
 -It is necessary to load AppleLPC by modifying VirtualSMC, otherwise the system may run unstable.
 需要通过修改VirtualSMC的方式加载AppleLPC，否则可能造成系统运行不稳定
 
-[course/教程](https://www.bilibili.com/read/cv6353697/)
+[course/教程](https://www.bilibili.com/read/cv6353697/)（不是我编写的，I didn't write it）
 
 ## 未经测试 / Untested availability:
 
