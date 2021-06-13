@@ -9,9 +9,9 @@ Processor：Intel Xeon E3-1230v2 Processor（Ivy Bridge，None IGPU）
 
 Memory：24GB DDR3 1600MHz
 
-Hard Disk：Intel S3510 120G SATA SSD,Samsung 860 EVO 250G SATA SSD,WDC HDD 500G x2
+Hard Disk：Intel S3510 120G SATA SSD，Samsung 860 EVO 250G SATA SSD，WDC HDD 500G x2
 
-Integrated Graphics：Nvidia Quadro 410,Nvidia GeForce 750ti
+Integrated Graphics：Nvidia Quadro 410，Nvidia GeForce 750ti
 
 Sound Card：Realtek ALC887 (layout-id:13)
 
