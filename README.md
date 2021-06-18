@@ -13,9 +13,9 @@ Hard Disk：Intel S3510 120G SATA SSD，Samsung 860 EVO 250G SATA SSD，WDC HDD 
 
 Integrated Graphics：Nvidia Quadro 410，Nvidia GeForce 750ti
 
-Sound Card：Realtek ALC887 (layout-id:13)
+Sound Card：Realtek ALC887 (layout-id:12)
 
-Network Card：Broadcom BCM94360CD Wireless LAN 802.11ac，Realtek RTL8111 PCI Express Gigabit Ethernet
+Network Card：Broadcom BCM943602CDP Wireless LAN 802.11ac，Realtek RTL8111 PCI Express Gigabit Ethernet
 
 ## 无法工作 / Non-working:
 
