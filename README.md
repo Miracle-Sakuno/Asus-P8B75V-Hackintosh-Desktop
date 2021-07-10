@@ -1,5 +1,5 @@
 # Asus P8B75-V Hackintosh Desktop
-Asus P8B75-V Hackintosh-Desktop-macOS Big Sur-OpenCore
+Asus P8B75-V Hackintosh-Desktop-macOS Monterey-OpenCore
 
 # Configuration
 
