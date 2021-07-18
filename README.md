@@ -19,7 +19,7 @@ Network Card：Broadcom BCM943602CDP Wireless LAN 802.11ac，Realtek RTL8111 PCI
 
 ## 无法工作 / Non-working:
 
--CPU Frequency Conversion,frequency locked at 3.7GHz (Maybe it can be solved by unlocking CFG lock)
+-CPU Frequency Conversion,frequency locked at 3.7 GHz (Maybe it can be solved by unlocking CFG lock)
 
 -Sleep S3 (Maybe it can be solved by unlocking CFG lock)
 
