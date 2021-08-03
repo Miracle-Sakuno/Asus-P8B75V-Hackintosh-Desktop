@@ -21,8 +21,6 @@ Network Card：Broadcom BCM943602CDP Wireless LAN 802.11ac，Realtek RTL8111 PCI
 
 -CPU Frequency Conversion,frequency locked at 3.7 GHz (Maybe it can be solved by unlocking CFG lock)
 
--Sleep S3 (Maybe it can be solved by unlocking CFG lock)
-
 -Nvidia GeForce 750ti (Can install NVIDIA Webdriver on macOS High Sierra to Working)
 
 ## 注意事项 / matters needing attention:
