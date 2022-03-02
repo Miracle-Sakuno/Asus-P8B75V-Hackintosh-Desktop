@@ -33,7 +33,7 @@ SkyLake以前有两个重要组件FWH和LPC (Firmware Hub/Low Pin Count)，在Sk
 
 方法：将S/L/E目录中的AppleLPC导出，将AppleLPC.kext/Contents/info.plist的IOKitPersonalities信息复制到InfoPersonality.kext/Contents/info.plist。然后查看LPCB设备的IOReg IO名称，添加到InfoPersonality.kext/Contents/info.plist中的IOKitPersonalities-AppleLPC-IONameMatch
 
-感谢@PMheart
+感谢[@PMheart](https://github.com/PMheart)
 
 ## 未经测试 / Untested availability:
 
