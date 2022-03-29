@@ -39,8 +39,6 @@ SkyLake used to have two important components, FWH and LPC (Firmware Hub/Low Pin
 
 Method: Export the AppleLPC in the S/L/E directory, and copy the IOKitPersonalities information in AppleLPC.kext/Contents/info.plist to InfoPersonality.kext/Contents/info.plist. Then look at the IOReg IO name of the LPCB device, add to IOKitPersonalities-AppleLPC-IONameMatch in InfoPersonality.kext/Contents/info.plist
 
-Thanks[@PMheart](https://github.com/PMheart)
-
 ## 未经测试 / Untested availability:
 
 -None
