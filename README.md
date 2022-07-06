@@ -41,9 +41,9 @@ Method: Export the AppleLPC in the S/L/E directory, and copy the IOKitPersonalit
 
 -Thanks[@PMheart](https://github.com/PMheart)
 
-注意：此方法会导致Recovery HD载入超时，且导致SATA驱动载入失败，原因不明。
+注意：加载AppleLPC会导致Recovery HD载入超时，且导致在Recovery HD内SATA驱动载入失败，原因不明。
 
-Note: This method will cause Recovery HD load timeout and SATA driver load failure for unknown reasons.
+Note: Loading AppleLPC will cause Recovery HD load timeout and SATA driver load failure in Recovery HD for unknown reasons.
 
 
 ## 未经测试 / Untested availability:
