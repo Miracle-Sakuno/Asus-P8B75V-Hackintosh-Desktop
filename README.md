@@ -25,9 +25,9 @@ Network Card：Broadcom BCM943602CDP Wireless LAN 802.11ac，Realtek RTL8111 PCI
 
 ## 注意事项 / matters needing attention:
 
--It is necessary to load AppleLPC by modifying InfoPersonality.kext, otherwise the system may run unstable.
+-It is necessary to load AppleLPC by modifying InfoPersonality.kext, otherwise the system may run unstable.(maybe...)
 
-需要通过修改InfoPersonality.kext的方式加载AppleLPC，否则可能造成系统运行不稳定
+需要通过修改InfoPersonality.kext的方式加载AppleLPC，否则可能造成系统运行不稳定（或许...）
 
 SkyLake以前有两个重要组件FWH和LPC (Firmware Hub/Low Pin Count)，在SkyLake后Intel使用了新的规范，两个组件集成到了PMC（Power Management Controller），或多或少跟PMCR/PPMC的功能实现相关，因此我认为它具备加载必要性。
 
@@ -40,6 +40,10 @@ SkyLake used to have two important components, FWH and LPC (Firmware Hub/Low Pin
 Method: Export the AppleLPC in the S/L/E directory, and copy the IOKitPersonalities information in AppleLPC.kext/Contents/info.plist to InfoPersonality.kext/Contents/info.plist. Then look at the IOReg IO name of the LPCB device, add to IOKitPersonalities-AppleLPC-IONameMatch in InfoPersonality.kext/Contents/info.plist
 
 -Thanks[@PMheart](https://github.com/PMheart)
+
+注意：此方法会导致Recovery HD载入超时，且导致SATA驱动载入失败，原因不明。
+
+Note: This method will cause Recovery HD load timeout and SATA driver load failure for unknown reasons.
 
 
 ## 未经测试 / Untested availability:
